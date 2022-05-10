@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\bin\Debug\LIST_TEST2.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\bin\Debug\LIST_TEST2.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\bin\Debug\LIST_TEST2.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\LIST_TEST2\obj\Debug\LIST_TEST2.pdb
